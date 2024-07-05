@@ -55755,3 +55755,4 @@ action: delete
 [01-Jul-2024 14:44:12 UTC] PDb_List_Admin::initialize list query: SELECT * FROM wp_participants_database p  ORDER BY p.date_updated desc LIMIT 0,999
 [01-Jul-2024 14:47:17 UTC] PDb_List_Admin::initialize list query: SELECT * FROM wp_participants_database p  ORDER BY p.date_updated desc LIMIT 0,999
 [05-Jul-2024 18:12:17 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 85
+[05-Jul-2024 18:13:15 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 117
