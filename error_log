@@ -55759,3 +55759,4 @@ action: delete
 [05-Jul-2024 18:17:16 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 117
 [05-Jul-2024 18:17:58 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 85
 [05-Jul-2024 18:18:11 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 85
+[05-Jul-2024 18:18:24 UTC] PHP Warning:  chdir(): No such file or directory (errno 2) in /home1/slovett/public_html/wp-content/plugins/wp-file-manager-git-main/wp_file_manager_git.php on line 117
