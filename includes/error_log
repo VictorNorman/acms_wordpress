@@ -2,3 +2,11 @@
 Stack trace:
 #0 {main}
   thrown in /home1/slovett/public_html/wp-admin/includes/admin.php on line 16
+[26-Jun-2024 18:48:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/slovett/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/slovett/public_html/wp-admin/includes/admin.php on line 16
+[03-Jul-2024 04:43:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home1/slovett/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/slovett/public_html/wp-admin/includes/admin.php on line 16
